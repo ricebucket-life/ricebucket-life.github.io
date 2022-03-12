@@ -1,7 +1,7 @@
 ---
 title: konri
 draft: false
-role: Systems Administrator
+role: Technologist
 avatar: images/penguin_with_fish_popsicles.jpg
 bio: Systems Administrator. Amateur Algorithmic Trader. Amateur mobile photographer.
 organization:
@@ -13,7 +13,7 @@ social:
     url: mailto:konri@ricebucket.life
   - icon: github
     iconPack: fab
-    url: https://github.com/initialgyw
+    url: https://github.com/ricebucket-life
 
 weight: 1
 widget:
