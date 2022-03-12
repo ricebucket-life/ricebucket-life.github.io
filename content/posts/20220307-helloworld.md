@@ -31,6 +31,10 @@ I already have some existing services that I need to note.
   
     Github provides a free service to store my code publicly and privately. It was a hard choice between Github and GitLab but I'm sticking with Github due to popularity and maybe integration with Azure (if any) for future projects.
 
+  - **Lucidcharts**
+
+    This SaaS will be used for editing my homelab topology.
+
 
 ## Why Github Pages with Hugo
 

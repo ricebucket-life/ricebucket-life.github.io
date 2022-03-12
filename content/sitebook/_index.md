@@ -3,4 +3,14 @@ title: Sitebook
 layout: doc-list
 ---
 
-![ricebucket topology](https://lucid.app/publicSegments/view/0c0a4845-8503-4021-9ef5-97a5a61778fc/image.png)
+## Current Topology (2022-03-12)
+
+![ricebucket topology](/images/topology/2022031201.jpeg)
+
+## Old Topology
+<details>
+  <summary>2022-03-12</summary>
+
+  ![ricebucket topology](/images/topology/2022031201.jpeg)
+
+</details>
