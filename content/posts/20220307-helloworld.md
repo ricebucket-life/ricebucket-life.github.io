@@ -4,6 +4,7 @@ description: This site will mostly be used to document my homelab changes.
 date: 2022-03-07
 authors:
   - konri
+toc: true
 draft: false
 ---
 
